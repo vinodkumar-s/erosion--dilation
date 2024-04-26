@@ -23,8 +23,8 @@ Dilate the Image
 
  
 ### Program:
-## Deveolped by: VINOD KUMAR S
-## Register NO: 212222240116
+#### Deveolped by: VINOD KUMAR S
+#### Register NO: 212222240116
 
 ##### Import the necessary packages
 ``` Python
@@ -36,7 +36,7 @@ import matplotlib.pyplot as plt
 ``` Python
 img = np.zeros((100,400),dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img ,'Lifestyle',(60,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(img ,'VINOD',(60,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(img)
 plt.axis('off')
 ```
