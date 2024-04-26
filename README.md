@@ -23,7 +23,8 @@ Dilate the Image
 
  
 ### Program:
-
+## Deveolped by: VINOD KUMAR S
+## Register NO: 212222240116
 
 ##### Import the necessary packages
 ``` Python
@@ -64,17 +65,19 @@ plt.axis('off')
 ### Output:
 
 #### Display the input Image
-![image](https://github.com/JoyceBeulah/erosion--dilation/assets/118343698/ae1f4652-8969-479e-a8aa-a8ad3e782858)
 
+
+![Screenshot 2024-04-26 203905](https://github.com/JoyceBeulah/erosion--dilation/assets/113497226/d0b79aee-0ae0-4585-aa5f-8b42755376e6)
 
 #### Display the Eroded Image
 
-![image](https://github.com/JoyceBeulah/erosion--dilation/assets/118343698/027a641b-bce2-4bef-9b10-0a60a1152116)
 
+![Screenshot 2024-04-26 203911](https://github.com/JoyceBeulah/erosion--dilation/assets/113497226/ca7837e5-f6ca-4b94-9c69-22026fe683e3)
 
 #### Display the Dilated Image
 
-![image](https://github.com/JoyceBeulah/erosion--dilation/assets/118343698/776a6718-a655-4167-b107-e43c0364b99c)
+![Screenshot 2024-04-26 203916](https://github.com/JoyceBeulah/erosion--dilation/assets/113497226/c659a7e3-8cc6-4e06-9d96-4286636e0819)
+
 
 
 ## Result
